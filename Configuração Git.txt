@@ -1,0 +1,6 @@
+git config --global user.name brunalopes1996
+git config --global user.email bruuna.oliveiraa1@gmail.com
+
+dotnet new mvc -o EtecShop 
+
+Abrir terminal ctrl + '
